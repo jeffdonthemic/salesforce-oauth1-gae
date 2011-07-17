@@ -1,0 +1,15 @@
+Salesforce OAuth1 Demo for Google App Engine
+
+This is the application to accompany the article "Using OAuth to Authorize External Applications" on developer.force.com (http://wiki.developerforce.com/index.php/Using_OAuth_to_Authorize_External_Applications). 
+
+Excerpt: In this article we'll explain what OAuth is and why you should use it. We'll also configure a Remote Access Application in Force.com, and develop an application on Google App Engine that uses a Remote Access Application to authorize access to Force.com to display account and contact records. Finally, we'll look at some tips, tricks, available libraries and best practices to get you up and running in no time.
+
+Import to note that this code is for OAuth 1.0.
+
+You can run the application at: https://jeffdouglas-oauth-sfdc.appspot.com/
+
+Jeff Douglas
+Appirio
+
+http://blog.jeffdouglas.com
+http://www.cloudspokes.com

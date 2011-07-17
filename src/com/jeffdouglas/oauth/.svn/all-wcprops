@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/demo/src/com/jeffdouglas/oauth
+END
+CallbackServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/demo/src/com/jeffdouglas/oauth/CallbackServlet.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/demo/src/com/jeffdouglas/oauth/LoginServlet.java
+END
+OauthSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/demo/src/com/jeffdouglas/oauth/OauthSettings.java
+END
+SfdcCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/demo/src/com/jeffdouglas/oauth/SfdcCredentials.java
+END
+AccountServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/demo/src/com/jeffdouglas/oauth/AccountServlet.java
+END
+HomeServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/demo/src/com/jeffdouglas/oauth/HomeServlet.java
+END
+ContactServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/demo/src/com/jeffdouglas/oauth/ContactServlet.java
+END
